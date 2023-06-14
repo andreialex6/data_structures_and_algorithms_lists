@@ -1,9 +1,3 @@
-Girleanu Andrei Alexandru-313CC - Banda Magica
-
-Timp de implementare : 24 de ore
-
-Punctaj obtinut la testele rulate pe propriul calculator : 120(100+20)
-
 Problema realizeaza mai multe tipuri de operatii asupra unei benzi:
     -operatii de tip UPDATE, ce sunt introduse intr-o coada si sunt realizate
     doar la intalnirea lui EXECUTE : 
